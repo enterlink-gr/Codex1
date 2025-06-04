@@ -1,0 +1,9 @@
+{
+  "name": "cms-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "functions",
+    "plugins/*"
+  ]
+}
