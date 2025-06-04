@@ -1,1 +1,12 @@
-# Ignore nothing for now
+node_modules
+frontend/node_modules
+functions/node_modules
+plugins/*/node_modules
+.env
+
+# Vite output
+frontend/dist
+
+# Firebase build outputs
+functions/lib
+
